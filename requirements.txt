@@ -1,0 +1,12 @@
+firebase-admin
+folium
+numpy
+pandas
+scipy
+shapely
+selenium
+geopandas
+Pillow
+opencv-python-headless
+Flask
+Werkzeug
